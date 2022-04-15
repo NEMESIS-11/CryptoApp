@@ -1,5 +1,5 @@
 ## Demo
-#### Here is a working live demo :  https://crypto-app.netlify.app/
+#### Here is a working live demo :  https://crypto-app-2.netlify.app/
 
 ## Built with 
 
